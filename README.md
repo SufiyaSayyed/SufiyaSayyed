@@ -5,7 +5,7 @@
 I’m a developer with **2+ years of experience** building both production and prototype systems across frontend, backend, and AI stacks — from **Angular-based onboarding workflows** to **Retrieval-Augmented Generation (RAG)** pipelines for enterprise use.  
 I enjoy crafting products that combine performance, observability, and creativity.
 
----
+
 
 ## 🧠 What I’m Working On
 - 🚀 Building **AI-powered apps, tools and multi-agent systems** using LangChain & FastAPI  
