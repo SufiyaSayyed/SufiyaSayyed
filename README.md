@@ -9,7 +9,6 @@ I enjoy crafting products that combine performance, observability, and creativit
 
 ## 🧠 What I’m Working On
 - Building **AI-powered apps, tools and multi-agent systems** using LangChain & FastAPI  
-- Exploring **LLM-based UX enhancements** for intelligent user experiences  
 - Expanding my **AI Research Paper Analyzer** (RAG + Pinecone + Gemini) project  
 
 
