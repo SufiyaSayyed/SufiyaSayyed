@@ -36,9 +36,10 @@ I enjoy crafting products that combine performance, observability, and creativit
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-00B16A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLM-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pinecone-008080?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLM-7B68EE?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 
