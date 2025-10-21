@@ -12,7 +12,8 @@ I enjoy crafting products that combine performance, observability, and creativit
 - 💡 Exploring **LLM-based UX enhancements** for intelligent user experiences  
 - 🧩 Expanding my **AI Research Paper Analyzer** (RAG + Pinecone + Gemini) project  
 
----
+
+
 
 ## 🌱 I’m currently learning
 - 🧠 **Advanced system design** and **AI observability**.  
@@ -20,7 +21,7 @@ I enjoy crafting products that combine performance, observability, and creativit
 - ☁️ **CI/CD automation** and **cloud-native AI deployments**.
 
 
----
+
 
 ## 💻 Tech Stack
 
@@ -41,13 +42,14 @@ I enjoy crafting products that combine performance, observability, and creativit
 </p>
 
 
----
+
+
 
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sufiya-sayyed-737534205/)  
 - ✉️ **ssayyed01@gmail.com**  
----
+
 
 ### 💬 “Turning ideas into scalable, impactful, and intelligent products.”
 
