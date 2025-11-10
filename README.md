@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sufiya Sayyed
 
-**Full-Stack Developer | Angular | React | FastAPI | GenAI Enthusiast**
+**Full-Stack Developer | Angular | React | FastAPI | Frontend and GenAI Systems**
 
 I’m a developer with **2+ years of experience** building both production and prototype systems across frontend, backend, and AI stacks — from **Angular-based onboarding workflows** to **Retrieval-Augmented Generation (RAG)** pipelines for enterprise use.  
 I enjoy crafting products that combine performance, observability, and creativity.
